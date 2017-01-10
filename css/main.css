@@ -148,7 +148,7 @@ p {
   }
 
   .content {
-    margin-top: 3em;
+    margin-top: 2.5em;
   }
 }
 
@@ -160,7 +160,7 @@ p {
   }
 
   section {
-    margin: auto;
-  }
+  margin-left: 10em;
+}
 
 }
