@@ -27,11 +27,15 @@ a {
   color: #fff;
   text-decoration: none;
   margin: 0;
-  padding: 0.5em 0.75em;
+  padding: .5em .75em;
   border-radius: 4px;
   display: inline-block;
   margin-bottom: 1em;
   margin-left: 1em;
+}
+
+a:hover {
+  background-color: #000;
 }
 
 .img-flex {
@@ -102,7 +106,7 @@ p {
 
   html {
     font-size: 130%;
-    line-height: 1.5
+    line-height: 1.5;
   }
 
 }
