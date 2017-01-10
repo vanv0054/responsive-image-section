@@ -160,7 +160,14 @@ p {
   }
 
   section {
-  margin-left: 10em;
-}
+    margin-left: 10em;
+  }
 
+  body {
+    max-width: 60em;
+  }
+
+  .content {
+    margin-top: 5em;
+  }
 }
