@@ -56,7 +56,6 @@ h1 {
 
 p {
   margin-left: .5em;
-  margin-top: 5px;
 }
 
 @media only screen and (min-width: 25em) {
@@ -89,8 +88,25 @@ p {
     max-width: 25em;
   }
 
+  .img-flex {
+    margin-bottom: -1em;
+  }
+
+  h2 {
+    margin-left: 1.5em;
+  }
+
   p {
-    margin-top: 3px;
+    margin-left: 1.5em;
+  }
+
+  a {
+    margin-left: 1.5em;
+  }
+
+  h1 {
+    text-align: left;
+    margin-left: 1em;
   }
 
 }
@@ -105,6 +121,7 @@ p {
   h1 {
     text-align: left;
     margin-left: 1em;
+    margin-top: .9em;
   }
 
   section {
@@ -112,11 +129,13 @@ p {
   }
 
   h2 {
-    margin-left: 1em;
+    margin-left: 1.5em;
   }
 
   p {
     margin-left: 1.5em;
+    margin-top: .1em;
+    margin-right: 1em;
   }
 
   a {
