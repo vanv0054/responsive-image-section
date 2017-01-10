@@ -102,8 +102,28 @@ p {
 
   h1 {
     text-align: left;
+    margin-left: 1em;
   }
 
+  .img-flex {
+    width: 90%;
+  }
+
+  section {
+    margin: auto;
+  }
+
+  h2 {
+    margin-left: 1em;
+  }
+
+  p {
+    margin-left: 1.5em;
+  }
+
+  a {
+    margin-left: 1.5em;
+  }
 }
 
 @media only screen and (min-width: 90em) {
@@ -111,6 +131,10 @@ p {
   html {
     font-size: 130%;
     line-height: 1.5;
+  }
+
+  section {
+    margin: auto;
   }
 
 }
